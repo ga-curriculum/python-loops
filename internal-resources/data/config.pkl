@@ -23,7 +23,7 @@ courses {
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.setup
-      mls.concepts
+      mls.introductionToLooping
       mls.whileLoops
       mls.forLoops
       mls.wrapUp
@@ -33,7 +33,7 @@ courses {
     name = "pps"
     microlessons {
       mls.setup
-      mls.concepts
+      mls.introductionToLooping
       mls.whileLoops
       mls.forLoops
       mls.wrapUp

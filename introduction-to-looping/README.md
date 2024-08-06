@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Python Loops</span>
-  <span class="subhead">Concepts</span>
+  <span class="subhead">Introduction to Looping</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to understand the importance of loops in programming and recognize the need for iterative solutions in coding.
@@ -9,7 +9,7 @@
 
 | Lesson   | Duration |
 | -------- | -------- |
-| Concepts | 15 min   |
+| Introduction to Looping | 15 min   |
 
 ## Today’s Learning Objectives
 

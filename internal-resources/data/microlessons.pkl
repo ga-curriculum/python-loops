@@ -9,9 +9,9 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+introductionToLooping = new Template.Microlesson {
+  friendlyName = "Introduction to Looping"
+  dirName = "introduction-to-looping"
   type = "Content"
   videoUrl = ""
 }

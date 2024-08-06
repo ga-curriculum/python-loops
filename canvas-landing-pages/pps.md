@@ -9,14 +9,13 @@ In this module, we'll explore fundamental loop structures in Python, focusing on
 
 ## Content
 
-| Lesson                                 | Skills                                                                                                                      |
-| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [Setup](../setup/README.md)             | Setting up the development environment.                                                                                     |
-| [Concepts](../concepts/README.md)       | Understanding fundamental programming concepts and how they apply to Python.                                                |
-| [While Loops](../while-loops/README.md) | Using `while` loops to iterate based on conditions, avoiding infinite loops, and tracking loop execution.                   |
-| [For Loops](../for-loops/README.md)     | Using `for` loops to iterate over lists and collections, using `range()` for indexing, and implementing list comprehension. |
-| [Wrap Up](../wrap-up/README.md)         | Reviewing key concepts, consolidating learning, and preparing for the next module or course phase.                          |
-| **Total content**                      |                                                                                                                             |
+| Lesson                                                          | Skills                                                                                                                      |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [Setup](../setup/README.md)                                     | Setting up the development environment.                                                                                     |
+| [Introduction to Looping](../introduction-to-looping/README.md) | Understanding the fundamental programming concept of looping and how to apply it in Python.                                 |
+| [While Loops](../while-loops/README.md)                         | Using `while` loops to iterate based on conditions, avoiding infinite loops, and tracking loop execution.                   |
+| [For Loops](../for-loops/README.md)                             | Using `for` loops to iterate over lists and collections, using `range()` for indexing, and implementing list comprehension. |
+| [Wrap Up](../wrap-up/README.md)                                 | Reviewing key concepts and preparing for the next module.                                                                   |
 
 ## References
 
