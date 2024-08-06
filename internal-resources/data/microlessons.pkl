@@ -16,17 +16,32 @@ concepts = new Template.Microlesson {
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+whileLoops = new Template.Microlesson {
+  friendlyName = "While Loops"
+  dirName = "while-loops"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+forLoops = new Template.Microlesson {
+  friendlyName = "For Loops"
+  dirName = "for-loops"
   type = "Content"
   videoUrl = ""
 }
+
+listComprehension = new Template.Microlesson {
+  friendlyName = "List Comprehension"
+  dirName = "list-comprehension"
+  type = "Content"
+  videoUrl = ""
+}
+
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
+  type = "Content"
+  videoUrl = ""
+}
+
 
