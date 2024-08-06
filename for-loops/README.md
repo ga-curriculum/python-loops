@@ -156,7 +156,6 @@ Answers:
   <li>While</li>
 </ol>
 
-<hr>
 </details>
 
 ## List Comprehension
