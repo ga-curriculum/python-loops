@@ -123,7 +123,7 @@ Just as it’s possible to nest data structures inside of each other, it is also
 ```python
 for num_one in range(1,13):
     for num_two in range(1,13):
-        print(f"{num_one} times {num_two} = {num_one \* num_two}")
+        print(f"{num_one} times {num_two} = {num_one * num_two}")
 ```
 
 > 🍎 While nested loops are sometimes necessary, this will result in increased complexity, both for you as a programmer and for the computer while executing the program.
@@ -154,7 +154,7 @@ Answers:
   <li>For</li>
   <li>While</li>
   <li>While</li>
-<ol>
+</ol>
 
 <hr>
 </details>
