@@ -48,7 +48,7 @@ for color in colors:
     print(color)
 ```
 
-## Solo Exercise : 4.2 For Loops 15 min TKTK
+## Solo Exercise: 4.2 For Loops 15 min TKTK
 
 Let's practice some for loops by looping over a list of numbers in Section 4.2 of the workbook.
 
@@ -67,7 +67,7 @@ for number in range(6):
 
 > 🍎 Why isn't 6 included in the output?
 
-## The Many Faces of range()
+## The Many Faces of `range()`
 
 | #                | Explanation                                                                                                               | Example         |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -134,7 +134,7 @@ for num_one in range(1,13):
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Great for instances when you have no way of knowing how many times you need to iterate. <br> - Useful for things like random chance or eliminating specific items of an undetermined amount. | - The most common loops, used when you know exactly how many times you need to iterate <br> - If you have a list and need to look through every item, use a for loop. |
 
-## Knowledge Check : For or While? TKTK
+## Knowledge Check: For or While? TKTK
 
 1. Look through a list to find the largest number.
 2. Flip a coin until heads shows up three times in a row.
@@ -172,13 +172,13 @@ even_numbers = [num * 2 for num in numbers]
 
 > 🍎 List comprehension is very common in data analysis applications, and it's important to be able to read the syntax in the examples you'll come across.
 
-## Solo Exercise : 4.3 List Comprehension 15 min TKTK
+## Solo Exercise: 4.3 List Comprehension 15 min TKTK
 
 Shortcuts like list comprehension are what make experienced programmers fall in love with Python.
 
 Let’s try out some challenges using list comprehension instead of loops in Section 4.3 of the workbook.
 
-## Group Exercise : 4.4 Hold on to Your Loops 20 min TKTK
+## Group Exercise: 4.4 Hold on to Your Loops 20 min TKTK
 
 Things can start getting complicated now that we have loops, conditionals, and data structures!
 

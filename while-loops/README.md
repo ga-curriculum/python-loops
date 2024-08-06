@@ -20,7 +20,7 @@ while number < 10:
     print(number)
 ```
 
-## Discussion : What Will This Code Do?
+## Discussion: What Will This Code Do? TKTK
 
 ```python
 number = 1
@@ -42,7 +42,7 @@ while number > 0:
     print(number)
 ```
 
-## Solo Exercise : 4.1 While Loops 20 min TKTK
+## Solo Exercise: 4.1 While Loops 20 min TKTK
 
 Use while loops to complete the challenges in Section 4.1 of the Jupyter Notebook.
 

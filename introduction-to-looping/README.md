@@ -7,8 +7,8 @@
 
 # Loops
 
-| Lesson   | Duration |
-| -------- | -------- |
+| Lesson                  | Duration |
+| ----------------------- | -------- |
 | Introduction to Looping | 15 min   |
 
 ## Today’s Learning Objectives
@@ -27,7 +27,7 @@ We’re going to return to topics covered in the pre-work and build upon them:
 - For loops
 - While loops
 
-## Solo Exercise : Jupyter Notebook (10 min) tktk
+## Solo Exercise: Jupyter Notebook (10 min) TKTK
 
 Let’s dive right in and use what we learned in the pre-work! We want to understand where you are in your learning journey so that we can give the best possible experience in class.
 
@@ -35,7 +35,7 @@ Let’s dive right in and use what we learned in the pre-work! We want to unders
 
 - Then, rate your confidence level on today's subjects from 1–5.
 
-## Discussion : Life Without Loops
+## Discussion: Life Without Loops TKTK
 
 Imagine that we have a list of colors and we want to print each one:
 
