@@ -7,6 +7,16 @@
 
 In this module, we'll explore fundamental loop structures in Python, focusing on how to efficiently iterate through data. You'll learn how to use `while` and `for` loops to manage repetitive tasks, utilize the `range()` function for precise indexing, and apply list comprehension for concise data manipulation.
 
+## Suggested Agenda
+
+| Time      | Activity                                     |
+| --------- | -------------------------------------------- |
+| 0:00–0:20 | Welcome + Concepts                           |
+| 0:20–0:50 | While Loops                                  |
+| 0:50–1:00 | Break                                        |
+| 1:00–1:50 | For Loops                                    |
+| 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
+
 ## Content
 
 | Lesson                                 | Skills                                                                                                                      |
