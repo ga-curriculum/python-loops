@@ -10,7 +10,7 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Module Name]"
+  friendlyName = "Python Loops"
   // This must match the repo name as it appears on GitHub exactly
   name = "tktk"
   type = "Lesson"

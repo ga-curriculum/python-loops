@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python Loops</span>
   <span class="subhead">tktk Microlesson 01</span>
 </h1>
 
