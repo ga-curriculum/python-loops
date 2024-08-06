@@ -30,13 +30,6 @@ forLoops = new Template.Microlesson {
   videoUrl = ""
 }
 
-listComprehension = new Template.Microlesson {
-  friendlyName = "List Comprehension"
-  dirName = "list-comprehension"
-  type = "Content"
-  videoUrl = ""
-}
-
 wrapUp = new Template.Microlesson {
   friendlyName = "Wrap Up"
   dirName = "wrap-up"

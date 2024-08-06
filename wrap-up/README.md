@@ -9,7 +9,7 @@
 
 ## Wrapping Up
 
-| **Recap**                                                                                                                                                                                            | **Looking Ahead**                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **In today’s class, we…**                                                                                                                                                                            | **On your own:**                                                                             |
-| - Used lists and list methods to manage collections of data.<br>- Used index-based retrieval to access and manipulate list items.<br>- Used dictionaries to represent data with multiple properties. | - Ensure that you’ve completed the Python pre-work.<br><br>**Next Class:**<br>- Conditionals |
+| **Recap**                                                                                                                                                               | **Looking Ahead**                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **In today’s class, we…**                                                                                                                                               | **On your own:**                                                                                            |
+| - Used loops to iterate over code blocks repeatedly.<br>- Differentiated between while and for loops.<br>- Used list comprehension to generate lists using loop syntax. | - Ensure that you’ve completed the Python pre-work and pre-work quiz.<br><br>**Next Class:**<br>- Functions |

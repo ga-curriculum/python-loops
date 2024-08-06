@@ -5,4 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Python Docs - Control Flow Tools (Loops)](https://docs.python.org/3/tutorial/controlflow.html)

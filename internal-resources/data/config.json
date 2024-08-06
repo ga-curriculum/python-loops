@@ -5,7 +5,7 @@
   },
   "repo": {
     "friendlyName": "Python Loops",
-    "name": "tktk",
+    "name": "python-loops",
     "type": "Lesson"
   },
   "courses": [
@@ -34,12 +34,6 @@
         {
           "friendlyName": "For Loops",
           "dirName": "for-loops",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "List Comprehension",
-          "dirName": "list-comprehension",
           "type": "Content",
           "videoUrl": ""
         },
@@ -96,12 +90,6 @@
         {
           "friendlyName": "For Loops",
           "dirName": "for-loops",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "List Comprehension",
-          "dirName": "list-comprehension",
           "type": "Content",
           "videoUrl": ""
         },

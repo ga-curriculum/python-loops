@@ -45,7 +45,7 @@ For review or extension topics, review the notes in the pre-work for recommendat
 
 | Time      | Activity                                     |
 | --------- | -------------------------------------------- |
-| 0:00–0:20 | Welcome + Introduction                       |
+| 0:00–0:20 | Welcome + Concepts                           |
 | 0:20–0:50 | While Loops                                  |
 | 0:50–1:00 | Break                                        |
 | 1:00–1:50 | For Loops                                    |
