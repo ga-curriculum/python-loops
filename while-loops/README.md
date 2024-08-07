@@ -44,6 +44,6 @@ while number > 0:
 
 ## Solo Exercise: 4.1 While Loops 20 min TKTK
 
-Use while loops to complete the challenges in Section 4.1 of the Jupyter Notebook.
+Use while loops to complete the challenges in **Section 4.1** of the Jupyter Notebook.
 
 ![Image Placeholder](TKTK)

@@ -50,7 +50,7 @@ for color in colors:
 
 ## Solo Exercise: 4.2 For Loops 15 min TKTK
 
-Let's practice some for loops by looping over a list of numbers in Section 4.2 of the workbook.
+Let's practice some for loops by looping over a list of numbers in **Section 4.2** of the workbook.
 
 ![Image Placeholder](TKTK)
 
@@ -176,10 +176,10 @@ even_numbers = [num * 2 for num in numbers]
 
 Shortcuts like list comprehension are what make experienced programmers fall in love with Python.
 
-Let’s try out some challenges using list comprehension instead of loops in Section 4.3 of the workbook.
+Let’s try out some challenges using list comprehension instead of loops in **Section 4.3** of the workbook.
 
 ## Group Exercise: 4.4 Hold on to Your Loops 20 min TKTK
 
 Things can start getting complicated now that we have loops, conditionals, and data structures!
 
-The challenges in Section 4.4 will be tough, so be sure to lean on print statements to help navigate your way through these tasks one step at a time.
+The challenges in **Section 4.4** will be tough, so be sure to lean on print statements to help navigate your way through these tasks one step at a time.
