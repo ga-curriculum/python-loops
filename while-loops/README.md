@@ -27,8 +27,6 @@ while number < 10:
   <span class="minutes"></span>
 </div>
 
-Life Without Loops
-
 ```python
 number = 1
 while number > 0:
