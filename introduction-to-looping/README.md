@@ -27,7 +27,12 @@ We’re going to return to topics covered in the pre-work and build upon them:
 - For loops
 - While loops
 
-## Solo Exercise: Jupyter Notebook Review (10 min) TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">Jupyter Notebook Review</h2>
+  <span class="minutes">10 min</span>
+</div>
 
 Let’s dive right in and use what we learned in the pre-work! We want to understand where you are in your learning journey so that we can give the best possible experience in class.
 
@@ -35,7 +40,12 @@ Let’s dive right in and use what we learned in the pre-work! We want to unders
 
 - Then, rate your confidence level on today's subjects from 1–5.
 
-## Discussion: Life Without Loops TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">Life Without Loops</h2>
+  <span class="minutes"></span>
+</div>
 
 Imagine that we have a list of colors and we want to print each one:
 

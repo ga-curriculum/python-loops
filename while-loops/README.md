@@ -20,7 +20,14 @@ while number < 10:
     print(number)
 ```
 
-## Discussion: What Will This Code Do? TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">What Will This Code Do?</h2>
+  <span class="minutes"></span>
+</div>
+
+Life Without Loops
 
 ```python
 number = 1
@@ -29,7 +36,7 @@ while number > 0:
     print(number)
 ```
 
-> 🍎 Take a moment to think about how the loop works and keep track of the number's value. Remember, the loop goes "back to the top" and checks the condition again before continuing. If the condition is always true, it creates an infinite loop!
+> 💡 Take a moment to think about how the loop works and keep track of the number's value. Remember, the loop goes "back to the top" and checks the condition again before continuing. If the condition is always true, it creates an infinite loop!
 
 ## Caution! Infinite Loops Ahead
 
@@ -42,7 +49,12 @@ while number > 0:
     print(number)
 ```
 
-## Solo Exercise: 4.1 While Loops 20 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">4.1 While Loops</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 Use while loops to complete the challenges in **Section 4.1** of the Jupyter Notebook.
 

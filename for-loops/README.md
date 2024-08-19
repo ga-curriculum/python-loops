@@ -24,7 +24,7 @@ for number in [0,1,2,3,4,5]:
 # outputs 0,1,2,3,4,5
 ```
 
-> 🍎 This is a great chance to break down how the loop works step by step. Use a cross-chart or manually track the values of variables as you go. Talking through each step out loud can help you understand how the loop operates, just like using a debugger.
+> 💡 This is a great chance to break down how the loop works step by step. Use a cross-chart or manually track the values of variables as you go. Talking through each step out loud can help you understand how the loop operates, just like using a debugger.
 
 ## The Naming of Things
 
@@ -48,7 +48,12 @@ for color in colors:
     print(color)
 ```
 
-## Solo Exercise: 4.2 For Loops 15 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">4.2 For Loops</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Let's practice some for loops by looping over a list of numbers in **Section 4.2** of the workbook.
 
@@ -65,7 +70,7 @@ for number in range(6):
 # outputs 0,1,2,3,4,5
 ```
 
-> 🍎 Why isn't 6 included in the output?
+> 💡 Why isn't 6 included in the output?
 
 ## The Many Faces of `range()`
 
@@ -126,7 +131,7 @@ for num_one in range(1,13):
         print(f"{num_one} times {num_two} = {num_one * num_two}")
 ```
 
-> 🍎 While nested loops are sometimes necessary, this will result in increased complexity, both for you as a programmer and for the computer while executing the program.
+> 💡 While nested loops are sometimes necessary, this will result in increased complexity, both for you as a programmer and for the computer while executing the program.
 
 ## For vs. While: Which One to Use?
 
@@ -134,7 +139,14 @@ for num_one in range(1,13):
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | - Great for instances when you have no way of knowing how many times you need to iterate. <br> - Useful for things like random chance or eliminating specific items of an undetermined amount. | - The most common loops, used when you know exactly how many times you need to iterate <br> - If you have a list and need to look through every item, use a for loop. |
 
-## Knowledge Check: For or While? TKTK
+<br>
+
+<div class="activity knowledge-check">
+  <h2 class="title">For or While?</h2>
+  <span class="minutes">2 min</span>
+</div>
+
+Which loop type should be used in each of these scenarios?
 
 1. Look through a list to find the largest number.
 2. Flip a coin until heads shows up three times in a row.
@@ -170,15 +182,25 @@ even_numbers = [num * 2 for num in numbers]
 # even_numbers is [2,4,6,8,10]
 ```
 
-> 🍎 List comprehension is very common in data analysis applications, and it's important to be able to read the syntax in the examples you'll come across.
+> 💡 List comprehension is very common in data analysis applications, and it's important to be able to read the syntax in the examples you'll come across.
 
-## Solo Exercise: 4.3 List Comprehension 15 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">4.3 List Comprehension</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Shortcuts like list comprehension are what make experienced programmers fall in love with Python.
 
 Let’s try out some challenges using list comprehension instead of loops in **Section 4.3** of the workbook.
 
-## Group Exercise: 4.4 Hold on to Your Loops 20 min TKTK
+<br>
+
+<div class="activity group-exercise">
+  <h2 class="title">4.4 Hold on to Your Loops</h2>
+  <span class="minutes">20 min</span>
+</div>
 
 Things can start getting complicated now that we have loops, conditionals, and data structures!
 
