@@ -57,7 +57,7 @@ for color in colors:
 
 Let's practice some for loops by looping over a list of numbers in **Section 4.2** of the workbook.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## Using the `range()` Function
 

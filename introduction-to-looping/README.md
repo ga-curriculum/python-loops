@@ -68,7 +68,7 @@ Does this seem sustainable?
 
 > Loop: A control flow statement allowing for the **_repeated execution of a code block_** until a specific condition is reached.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## Why Loops?
 
@@ -77,7 +77,7 @@ Loops take advantage of what computers do best: evaluate instructions across org
 Computers excel when working in isolated patterns, which is exactly how a loop works.
 You can avoid needlessly copying or re-typing code by repeating it in a loop.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 - When dealing with lists of data from databases or other web apps, we often don’t know how many items there will be, so hard-coding operations isn’t practical.
 
