@@ -56,4 +56,4 @@ while number > 0:
 
 Use while loops to complete the challenges in **Section 4.1** of the Jupyter Notebook.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/gears.png" alt="Gears Image" style="width: 300px; height: auto;">

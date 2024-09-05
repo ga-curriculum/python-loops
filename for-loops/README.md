@@ -57,7 +57,7 @@ for color in colors:
 
 Let's practice some for loops by looping over a list of numbers in **Section 4.2** of the workbook.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/pencils-cup.png" alt="Pencils in Cup Image" style="width: 300px; height: auto;">
 
 ## Using the `range()` Function
 

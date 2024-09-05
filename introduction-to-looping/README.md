@@ -11,13 +11,15 @@
 | ----------------------- | -------- |
 | Introduction to Looping | 15 min   |
 
-## Today’s Learning Objectives
+## Our Learning Goals
 
 In this Module, you will:
 
 - Use loops to iterate over code blocks repeatedly.
 - Differentiate between while and for loops.
 - Use list comprehension to generate lists using loop syntax.
+
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## What We’ll Practice Today
 
@@ -68,8 +70,6 @@ Does this seem sustainable?
 
 > Loop: A control flow statement allowing for the **_repeated execution of a code block_** until a specific condition is reached.
 
-<!-- ![Image Placeholder](TKTK) -->
-
 ## Why Loops?
 
 Loops take advantage of what computers do best: evaluate instructions across organized sets of data very quickly.
@@ -77,7 +77,7 @@ Loops take advantage of what computers do best: evaluate instructions across org
 Computers excel when working in isolated patterns, which is exactly how a loop works.
 You can avoid needlessly copying or re-typing code by repeating it in a loop.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/loop.png" alt="Loop Image" style="width: 300px; height: auto;">
 
 - When dealing with lists of data from databases or other web apps, we often don’t know how many items there will be, so hard-coding operations isn’t practical.
 
